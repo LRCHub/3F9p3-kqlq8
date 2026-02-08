@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "撲殺天使ドクロちゃん",
+  "base_artist": "千葉紗子",
+  "createdAt": "2026-02-08T11:31:57.313998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "撲殺天使ドクロちゃん",
+      "artist": "Yoko Ishida",
+      "has_synced": false,
+      "path": "select/01_撲殺天使ドクロちゃん_Yoko_Ishida.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "撲殺天使ドクロちゃん",
+      "artist": "Ma15",
+      "has_synced": false,
+      "path": "select/02_撲殺天使ドクロちゃん_Ma15.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "撲殺天使ドクロちゃん",
+      "artist": "千葉紗子",
+      "has_synced": true,
+      "path": "select/03_撲殺天使ドクロちゃん_千葉紗子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "撲殺天使ドクロちゃん - なぜライブ？-Mix",
+      "artist": "千葉紗子",
+      "has_synced": false,
+      "path": "select/04_撲殺天使ドクロちゃん_-_なぜライブ_-Mix_千葉紗子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "撲殺天使ドクロちゃん",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/05_撲殺天使ドクロちゃん_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "撲殺天使ドクロちゃん （なぜライブ？-Mix）",
+      "artist": "千葉紗子",
+      "has_synced": false,
+      "path": "select/06_撲殺天使ドクロちゃん_(なぜライブ_-Mix)_千葉紗子.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "撲殺天使ドクロちゃん(カラオケ)",
+      "artist": "千葉紗子",
+      "has_synced": false,
+      "path": "select/07_撲殺天使ドクロちゃん(カラオケ)_千葉紗子.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "撲殺天使ドクロちゃん(なぜライブMix)",
+      "artist": "千葉紗子",
+      "has_synced": false,
+      "path": "select/08_撲殺天使ドクロちゃん(なぜライブMix)_千葉紗子.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "撲殺天使ドクロちゃん",
+      "artist": "Poron",
+      "has_synced": true,
+      "path": "select/09_撲殺天使ドクロちゃん_Poron.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "撲殺天使ドクロちゃん",
+      "artist": "千葉 紗子",
+      "has_synced": false,
+      "path": "select/pl_01_撲殺天使ドクロちゃん_千葉_紗子.txt"
+    }
+  ]
+}
